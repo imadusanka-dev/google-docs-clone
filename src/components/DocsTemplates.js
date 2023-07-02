@@ -13,7 +13,7 @@ const DocsTemplates = () => {
           <div className="relative h-52 w-40 border-2 cursor-pointer hover:border-blue-700">
             <Image
               src="https://links.papareact.com/pju"
-              layout="fill"
+              fill={true}
               alt="blank"
             />
           </div>
